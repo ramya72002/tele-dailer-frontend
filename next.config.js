@@ -6,7 +6,7 @@ const nextConfig = {
     NEXT_PUBLIC_ZEGO_SERVER_ID: "1f37472dc745e1062e08d39003954911",
   },
   images: {
-    domains: ["localhost"],
+    domains: ["localhost","tele-dailer-backend.vercel.app","tele-dailer-frontend.vercel.app"],
   },
 };
 
