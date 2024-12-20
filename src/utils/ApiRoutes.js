@@ -1,4 +1,4 @@
-export const HOST = "http://localhost:3005";
+export const HOST = "https://tele-dailer-backend.vercel.app";
 
 const AUTH_ROUTE= `${HOST}/api/auth`;
 const MESSAGES_ROUTE= `${HOST}/api/messages`;
