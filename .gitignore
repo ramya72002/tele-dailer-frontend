@@ -13,7 +13,7 @@ bin-release/
 *.ipa
 *.apk
 # Node.js dependencies
-node_modules/
+node_modules
 
 # Environment variables
 .env
@@ -29,7 +29,7 @@ node_modules/
 .idea/
 
 # Build directories
-.next/
+.next
 dist/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
