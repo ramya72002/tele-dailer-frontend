@@ -12,6 +12,25 @@ bin-release/
 *.air
 *.ipa
 *.apk
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Build directories
+.next/
+dist/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
